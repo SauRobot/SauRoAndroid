@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SauRo Akıllı Araba</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="text_bluetooth_off">Bluetooth is Off</string>
+
+    <string name="text_bluetooth_on">Bluetooth is On</string>
+
+    <string name="text_enable">Etkinleştir</string>
+
+    <string name="text_disable">Disable</string>
+
+    <string name="text_view_paired">Paired Devices</string>
+
+    <string name="text_scan_devices">Cihazları Tara</string>
+
+    <string name="text_stop_scan">Scan Devices</string>
+
+    <string name="text_list_paired_devices">Paired Devices</string>
+
+    <string name="text_list_devices">List of Devices</string>
+
+    <string name="text_connect">Bağlan</string>
+
+    <string name="text_pair">Eşleştir</string>
+</resources>
